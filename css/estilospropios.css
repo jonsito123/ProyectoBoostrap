@@ -1,0 +1,25 @@
+
+/*estilos para la pagina contacto*/
+#contenedor-formulario{
+    margin-top: 10px;
+    background: #fbfafa;
+    
+    border-radius:5px solid #3f3f3f ;
+    
+}
+
+#titulo-formulario {
+    color: #6c794ea4;
+}
+
+/*estilos propiso para footer*/
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 100%;
+    height: 500px;
+    margin: auto;
+}
+/* Para los margenes del contendor de las fotos. Podes cambiarle el ancho a gusto tambien! */
+.carousel-control {
+    width: 10%;
+}
